@@ -1,6 +1,6 @@
 name: Installing Python
 
-on: [push, workflow_dispatch]
+on: [push]
 
 jobs:
   build:
